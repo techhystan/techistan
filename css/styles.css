@@ -428,8 +428,8 @@ input[type='checkbox'] {
 }
 
 .navbar .logo-image img {
-    width: 126px;
-	height: 30px;
+    width: 180px;
+	height: 80px;
 }
 
 .navbar .logo-text {
@@ -1411,7 +1411,7 @@ a:hover.back-to-top {
 
 	/* Navigation */
 	.navbar {
-		padding-top: 1.75rem;
+		padding-top: 0rem!important;
 		background-color: transparent;
 		box-shadow: none;
 		transition: all 0.2s;
